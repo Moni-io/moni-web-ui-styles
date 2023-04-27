@@ -1,0 +1,22 @@
+{
+  "name": "moni-web-ui-styles",
+  "version": "1.0.0",
+  "description": "moni web ui common css files, like colors, typography and default styles",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moni-io/moni-web-ui-styles.git"
+  },
+  "keywords": [
+    "moni-web-ui",
+    "styles"
+  ],
+  "author": "qmzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moni-io/moni-web-ui-styles/issues"
+  },
+  "homepage": "https://github.com/Moni-io/moni-web-ui-styles#readme"
+}
