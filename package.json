@@ -1,6 +1,6 @@
 {
   "name": "moni-web-ui-styles",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "moni web ui common css files, like colors, typography and default styles",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
